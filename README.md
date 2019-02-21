@@ -10,3 +10,7 @@ Algorithms used  to analyse news articles to determine if they are fake or real
 
 ## Progress:
 1. Currently at shallow neural network
+
+## Data:
+
+The data is inside Archive.zip labelled as test.csv and train.csv, Extract to proper location for it to work
