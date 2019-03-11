@@ -12,7 +12,8 @@ Algorithms used  to analyse news articles to determine if they are fake or real
 1. Currently at a basic neural network<br/><br/>
    The features used at this stage are: Title,Author and the articel itself.<br/>
    These features are passed to the neural network are passed after vectorization.<br/>
-   The structure of the model:
+   The structure of the model:<br/>
+   ![Model](https://i.imgur.com/sXR8Zjs.png)
    
    This dataset scores 97% accuracy on testing(Done through kaggle,as the dataset was part of a kaggle competeiton)
 2. Adding More Features<br/><br/>
